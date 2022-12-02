@@ -1,1 +1,1 @@
-# YouTube-V3
+YouTube Clone App with React JS, consisting of video sections, custom categories, channel pages.
