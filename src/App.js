@@ -7,7 +7,7 @@ import {
   VideoDetail,
   ChannelDetail,
   SearchFeed,
-} from "./components/index.js";
+} from "./components/";
 
 const App = () => (
   <BrowserRouter>
