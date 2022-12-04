@@ -11,7 +11,7 @@ const SearchBar = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (searchTerm) {
-      navigate(`/search/${searchTerm}`);
+      navigate(`/YouTube-V3/search/${searchTerm}`);
       
       setSearchTerm('')
     }
